@@ -1,4 +1,4 @@
-# Project Euler Problem #2
+# Project Euler Problem #4
 # Solved by: Sytantris Dyat
 # Language: Ruby 2.0
 # Date: 2014-08-27
