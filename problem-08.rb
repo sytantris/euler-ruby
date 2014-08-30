@@ -34,7 +34,6 @@ end
 
 max = 0
 numbers.each do |n|
-  puts n.inspect
   n.map! do |i|
     i.to_i
   end
